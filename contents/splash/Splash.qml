@@ -87,11 +87,11 @@ Image {
             Text {
                 id: element1
                 y: 165
-                width: 88
-                height: 35
+                width: 80
+                height: 15
                 color: "#00ff00"
-                text: qsTr("Plasma 5")
-                font.pixelSize: 20
+                text: qsTr("綠灼鋒")
+                font.pixelSize: 35
                 font.family: "Tahoma"
                 verticalAlignment: Text.AlignVCenter
                 horizontalAlignment: Text.AlignHCenter
