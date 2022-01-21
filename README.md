@@ -6,7 +6,7 @@ Note: This instructions are based on usage of KDE Neon.
 
 1.) Clone this repository in the following folder:
 ```
-$USER/.local/share/plasma/look-and-feel/
+~/.local/share/plasma/look-and-feel/
 ```
 
 2.) Go to System Settings > Appearance > Splash Screen
