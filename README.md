@@ -4,10 +4,11 @@ Splash screen for KDE Desktop.
 # Setup
 Note: This instructions are based on usage of KDE Neon.
 
-1.) Clone this repository in the following folder:
+1.) Clone this repository via the command below:
 ```
-$USER/.local/share/plasma/look-and-feel/
+git clone https://github.com/kde69420/Green-HoneyComb-SplashScreen.git $USER/.local/share/plasma/look-and-feel/Green-Honeycomb
 ```
+The command will automatically set its location to the one set by KDE so the option to select this splash screen is instantly available.
 
 2.) Go to System Settings > Appearance > Splash Screen
 

@@ -158,7 +158,7 @@ Image {
             color: "#00000000"
             anchors.horizontalCenter: parent.horizontalCenter
             anchors.top: parent.top
-            anchors.topMargin: 0
+            anchors.topMargin: 20
 
             Text {
                 id: date
